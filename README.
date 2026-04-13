@@ -1,0 +1,24 @@
+# EduTrack System 🎓
+
+A Java-based Student Learning Management System with GUI.
+
+## Features
+- Login System
+- Add Student
+- Delete Student
+- Add Course
+- View Students
+- View Courses
+- View Enrollments
+- Save Data to File
+
+## Technologies Used
+- Java
+- Swing (GUI)
+
+## How to Run
+1. Open project in IntelliJ
+2. Run Main.java or LoginGUI.java
+
+## Author
+Dihan
